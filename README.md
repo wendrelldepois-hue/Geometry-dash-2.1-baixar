@@ -27,6 +27,6 @@
 <img width="455" height="439" alt="images (31)" src="https://github.com/user-attachments/assets/694fbcb5-1051-4e45-a5c0-696467614b43" />
 <img width="588" height="339" alt="images (32)" src="https://github.com/user-attachments/assets/1355b993-d978-49b5-a393-6b7ca185332a" />
 <img width="800" height="799" alt="unnamed (1)" src="https://github.com/user-attachments/assets/1310866e-798a-4a87-b009-b8ee2d738067" />
-+
+              +
 <img width="196" height="196" alt="download" src="https://github.com/user-attachments/assets/644c4ee0-10c9-4951-8e69-a76fc5ba960d" />
 https://play.google.com/store/apps/details?id=com.robtopx.geometryjump&hl=pt_BR
